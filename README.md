@@ -1,4 +1,4 @@
-=============================================================================================================================================================================================
+==================
 HR Analytics Dashboard: RAPORT ZATRUDNIENIA I ROTACJI KADR W LATACH 2025–2026 | Microsoft Power BI 
 Autor: Ilona Sekudewicz (w ramach wyzwania Power BI | SkuteczneRaporty.pl) 
 [English below]
@@ -29,7 +29,7 @@ STRUKTURA PLIKÓW W REPOZYTORIUM:
 •	hr_dashboard_overview.png: Zrzut ekranu gotowego dashboardu.
 •	Certyfikat_Power_BI.pdf: Certyfikat ukończenia szkolenia i wyzwania projektowego. 
 •	README.md: Dokumentacja projektu.
-=============================================================================================================================================================================================
+==================
 
 ENGLISH VERSION
 HR Analytics Dashboard: Workforce Headcount & Turnover Report (2025–2026) | Microsoft Power BI 
@@ -60,4 +60,4 @@ REPOSITORY STRUCTURE:
 •	hr_dashboard_overview.png: High-resolution screenshot of the dashboard.
 •	Certyfikat_Power_BI.pdf: Official certificate of challenge completion. 
 •	README.md: Project documentation.
-=============================================================================================================================================================================================
+==================
