@@ -1,7 +1,8 @@
-==================
-HR Analytics Dashboard: RAPORT ZATRUDNIENIA I ROTACJI KADR W LATACH 2025–2026 | Microsoft Power BI 
-Autor: Ilona Sekudewicz (w ramach wyzwania Power BI | SkuteczneRaporty.pl) 
 [English below]
+
+===== HR Analytics Dashboard: RAPORT ZATRUDNIENIA I ROTACJI KADR W LATACH 2025–2026 | Microsoft Power BI =====
+
+Autor: Ilona Sekudewicz (w ramach wyzwania Power BI | SkuteczneRaporty.pl) 
 
 OPIS PROJEKTU I CEL BIZNESOWY:
 Interaktywny dashboard kadrowy przygotowany w programie Microsoft Power BI dla studia gamedev PixelAI Studio. Raport służy jako narzędzie wsparcia decyzji dla Dyrektora HR oraz kadry zarządzającej, umożliwiając bieżące monitorowanie stanu zatrudnienia (Headcount, FTE), dynamiki rotacji pracowników oraz identyfikację ognisk odejść w podziale na działy, zespoły, formy zatrudnienia (B2B vs. UoP) oraz grupy demograficzne. 
@@ -29,10 +30,9 @@ STRUKTURA PLIKÓW W REPOZYTORIUM:
 •	hr_dashboard_overview.png: Zrzut ekranu gotowego dashboardu.
 •	Certyfikat_Power_BI.pdf: Certyfikat ukończenia szkolenia i wyzwania projektowego. 
 •	README.md: Dokumentacja projektu.
-==================
 
-ENGLISH VERSION
-HR Analytics Dashboard: Workforce Headcount & Turnover Report (2025–2026) | Microsoft Power BI 
+===== HR Analytics Dashboard: Workforce Headcount & Turnover Report (2025–2026) | Microsoft Power BI =====
+
 Author: Ilona Sekudewicz (completed as part of the Power BI Challenge by SkuteczneRaporty.pl) 
 
 PROJECT OVERVIEW & BUSINESS OBJECTIVE: An interactive People Analytics dashboard developed in Microsoft Power BI for the game development studio PixelAI Studio. The report serves as a Decision Support System (DSS) for the HR Director and executive leadership, enabling continuous tracking of workforce capacity (Headcount, FTE), attrition dynamics, and the identification of turnover hotspots across departments, teams, contract types (B2B vs. Permanent Employment / UoP), and demographic segments. 
@@ -60,4 +60,3 @@ REPOSITORY STRUCTURE:
 •	hr_dashboard_overview.png: High-resolution screenshot of the dashboard.
 •	Certyfikat_Power_BI.pdf: Official certificate of challenge completion. 
 •	README.md: Project documentation.
-==================
